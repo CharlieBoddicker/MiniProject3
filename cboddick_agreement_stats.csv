@@ -1,0 +1,6 @@
+Field;PercentAgree_Pre;PercentAgree_Post;CohenKappa_Pre;CohenKappa_Post;NumDisagreements;NumResolved;Notes
+HasRecovered;95.0;100.0;0.9;1.0;1;1;High agreement, The main disagreement involved whether a one-month gap was long enough to qualify as an inactivity gap.
+WhyRecovered;85.0;100.0;NA;NA;3;3;Most differences came from how specifically the recovery evidence was described. Discussion helped combine or clarify interpretations.
+ActivityPattern;60.0;100.0;0.533;1.0;8;8;This field caused the most disagreement. The main difficulty was distinguishing irregular patterns from declining, cyclical, steady, or stopped activity.
+Currentstatus;95.0;100.0;0.9;1.0;1;1;Very high agreement. The main disagreement involved interpretation of the cutoff date used to classify a project as active or inactive.
+RecentThemes;85.0;100.0;NA;NA;3;3;Most disagreements came from broad use of the Other category. Reviewing individual commit messages produced more specific theme classifications.
